@@ -2,6 +2,7 @@
 require_once("common.php");
 
 // This is quick-and-dirty; I'd use something like PHPUnit in production and check the exact errors.
+// I would also verify that the database operations actually did complete successfully.
 
 $test_files = array(
 	'bad.csv' => 1,
