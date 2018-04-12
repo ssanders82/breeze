@@ -1,0 +1,9 @@
+person_id,first_name,last_name,email_address,group_id,state
+1,steve,jobs,jdoe1@gmail.com,1,active
+2,steve,woz,jdoe2@gmail.com,1,active
+3,bill,gates,jdoe3@gmail.com,2,active
+4,larry,ellison,jdoe4@gmail.com,2,archived
+5,paul,allen,jdoe5@gmail.com,2,active
+6,michael,dell,jdoe6@gmail.com,3,active
+7,brad,compaq,jdoe7@gmail.com,4,active
+8,sara,linkedin,jdoe8@gmail.com,4,active

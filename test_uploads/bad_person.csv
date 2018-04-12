@@ -1,0 +1,8 @@
+person_id,first_name,last_name,email_address,group_id,state
+1,steve,jobs,jdoe1@gmail.com,-1,active
+2,steve,woz,jdoe2@gmail.com,1,unknown
+3,bill,gates,jdoe3@gmail.com,2,active
+4,larry,ellison,jdoe4gmail.com,2,active
+-5,paul,allen,,2,active
+
+
